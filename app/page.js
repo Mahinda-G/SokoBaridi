@@ -190,7 +190,7 @@ export default function Page() {
         </div>
       </section>
 
-      {/* Impact */}
+      {/*
       <section id="impact" className="py-16 bg-gray-50">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
@@ -208,6 +208,7 @@ export default function Page() {
           </div>
         </div>
       </section>
+      */}
 
       {/* Who we serve */}
       <section id="who" className="py-16">
