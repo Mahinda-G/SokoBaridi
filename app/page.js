@@ -91,7 +91,7 @@ export default function Page() {
         </div>
       </section>
 
-      {/* Trusted By */}
+      {/*
       <section className="py-10 border-y bg-gray-50/70">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
@@ -103,7 +103,7 @@ export default function Page() {
             </div>
           </div>
         </div>
-      </section>
+      </section>*/}
 
       {/* Mission & Vision */}
       <section className="py-16" id="mission">
